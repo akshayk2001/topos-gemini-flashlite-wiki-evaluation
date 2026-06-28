@@ -55,5 +55,5 @@ npm run dev
 cd ..
 cd wiki-flashlite-extended
 npm install
-```
 npm run dev
+```
