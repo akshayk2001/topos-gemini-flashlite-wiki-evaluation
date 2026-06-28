@@ -1,4 +1,4 @@
-# TOPOS Gemini Flash-Lite Wiki Evaluation
+# TOPOS Wiki Evaluation
 
 This project compares Gemini 3.1 Flash-Lite with standard thinking and extended thinking on the same one-shot coding task: generating a simple React personal wiki from three fixed PDF sources.
 
