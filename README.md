@@ -41,11 +41,13 @@ TOPOS awards quality levels based on how many pillars a file satisfies. This mak
 
 ## Running the Apps
 
-Navigate to the root project folder and run the following commands to generate the wiki for both models:
+Navigate to the root project folder:
 
 ```bash
 cd topos-comparison-project
-
+```
+Run the following commands to generate the wiki for both models:
+```bash
 cd wiki-flashlite-standard
 npm install
 npm run dev
@@ -53,4 +55,5 @@ npm run dev
 cd ..
 cd wiki-flashlite-extended
 npm install
+```
 npm run dev
